@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/881546726902420681/8e42bf1a68844e05a34449f80e7d0416/artifacts
+end_time: 1753938792657
+entry_point_name: ''
+experiment_id: '881546726902420681'
+lifecycle_stage: active
+run_id: 8e42bf1a68844e05a34449f80e7d0416
+run_name: trusting-fawn-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753938786626
+status: 3
+tags: []
+user_id: osama

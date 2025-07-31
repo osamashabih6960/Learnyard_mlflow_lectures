@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/881546726902420681/2189944e05004e25aec4577696a7472e/artifacts
+end_time: 1753937955195
+entry_point_name: ''
+experiment_id: '881546726902420681'
+lifecycle_stage: active
+run_id: 2189944e05004e25aec4577696a7472e
+run_name: resilient-perch-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753937947724
+status: 3
+tags: []
+user_id: osama

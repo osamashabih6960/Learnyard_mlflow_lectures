@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/881546726902420681/da2dde5b4f9e4459b087ff4167eed85c/artifacts
+end_time: 1753938346482
+entry_point_name: ''
+experiment_id: '881546726902420681'
+lifecycle_stage: active
+run_id: da2dde5b4f9e4459b087ff4167eed85c
+run_name: burly-doe-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753938337824
+status: 3
+tags: []
+user_id: osama
