@@ -1,0 +1,24 @@
+"mlflow.autolog()" is a powerful feature in MLflow that automatically logs parameters, metrics, models, and other relevant information during your machine learning training process. However, it's important to know what can and cannot be logged automatically.
+
+>> Things That Can Be Logged by "mlflow.autolog":
+
+1. Parameters:
+   - Hyperparameters used to train the model, such as "max_depth", "learning_rate", "n_estimators", etc.
+
+2. Metrics:
+   - Common evaluation metrics like accuracy, precision, recall, and loss values, depending on the model and framework being used.
+
+3. Model:
+   - The trained model itself is automatically logged.
+
+4. Artifacts:
+   - Certain artifacts like model summary and plots (e.g., learning curves, confusion matrix) are logged if supported by the framework.
+
+5. Framework-Specific Information:
+   - Framework-specific details like early stopping criteria in gradient boosting models or deep learning models (e.g., number of epochs, optimizer configuration).
+
+6. Environment Information:
+   - Details about the environment such as installed libraries and versions.
+
+7. Training Data and Labels:
+   - Information about the dataset size and sometimes feature information, but not the entire dataset itself.

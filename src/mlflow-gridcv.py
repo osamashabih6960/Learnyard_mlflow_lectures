@@ -37,9 +37,9 @@ grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, n_jobs=-1,
 # # Till here
 
 import dagshub
-dagshub.init(repo_owner='vikashdas770', repo_name='learnyard-mlflow-lectures', mlflow=True)
+dagshub.init(repo_owner='osamashabih6960', repo_name='Learnyard_mlflow_lectures', mlflow=True)
 
-mlflow.set_tracking_uri("https://dagshub.com/vikashdas770/learnyard-mlflow-lectures.mlflow")
+mlflow.set_tracking_uri("https://dagshub.com/osamashabih6960/Learnyard_mlflow_lectures.mlflow")
 
 mlflow.set_experiment('breast-cancer-rf-hp')
 

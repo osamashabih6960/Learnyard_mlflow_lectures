@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/881546726902420681/d6d1bad830d24d3fb5285acaa1b7acf4/artifacts
+end_time: 1754048633494
+entry_point_name: ''
+experiment_id: '881546726902420681'
+lifecycle_stage: active
+run_id: d6d1bad830d24d3fb5285acaa1b7acf4
+run_name: silent-koi-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754048623652
+status: 3
+tags: []
+user_id: osama
