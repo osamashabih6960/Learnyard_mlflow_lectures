@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/881546726902420681/8a152850b0854d9587a76f0f2d964f16/artifacts
+end_time: 1753937881307
+entry_point_name: ''
+experiment_id: '881546726902420681'
+lifecycle_stage: active
+run_id: 8a152850b0854d9587a76f0f2d964f16
+run_name: awesome-ox-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753937879520
+status: 4
+tags: []
+user_id: osama
