@@ -22,7 +22,7 @@ max_depth = 15
 n_estimators = 20
 
 # Mention your experiment below
-mlflow.set_experiment('custom-exp-code')
+# mlflow.set_experiment('custom-exp-code')
 
 with mlflow.start_run(experiment_id=135517106184877569):
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)

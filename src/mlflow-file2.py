@@ -3,11 +3,12 @@
 # - create > new repo > connect a repo > github > select the repo > connect repo > 
 #   go to dagshub repo > remote > experiments > copy tracking uri
 
-# https://dagshub.com/osamashabih6960/Learnyard_mlflow_lectures.mlflow
 
+# https://dagshub.com/osamashabih6960/learnyard-mlflow-lectures.mlflow
 
 # import dagshub
-# dagshub.init(repo_owner='vikashdas770', repo_name='learnyard-mlflow-lectures', mlflow=True)
+# dagshub.init(repo_owner='osamashabih6960', repo_name='learnyard-mlflow-lectures', mlflow=True)
+
 
 import mlflow
 import mlflow.sklearn
